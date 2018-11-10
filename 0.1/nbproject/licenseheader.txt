@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Created by F1Champs
+${licensePrefix}Each line should be prefixed with ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
